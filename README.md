@@ -1,1 +1,1 @@
-# this folder includes several python projects using different machine learning algorithms
+This folder includes several python projects using different machine learning algorithms
